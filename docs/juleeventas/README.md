@@ -1,6 +1,6 @@
 # juleEvent AS
 
-## logg over juleEvent prosjektet
+## logg over juleEvent prosjektet:
 
 ### Fredeg 29 November 2024
 
